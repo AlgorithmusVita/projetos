@@ -1,0 +1,73 @@
+#barraMenu{  
+    float: none;
+    width: 90% ;
+    height: 52px;
+    background-color: #44648f;
+    padding: auto;
+    margin: auto;
+}
+#corpoPagina{
+    float: none;
+    width: 90%;
+    height: 3000px;
+    background-color: #7491a2;
+    padding: auto;
+    margin: auto;
+}
+
+
+body{
+    background-color: #20303f;
+}
+.login{
+    float: right;
+    width: 11.1%;
+    height: 50px;
+    background-color: #68d9e8;
+    padding: auto;
+    margin: 1px;
+
+    
+}
+
+.logintext{
+    text-align: center;
+    font-size:40px;
+    margin: auto;
+    padding: auto;
+    
+}
+.Inicio{    
+    float: right;
+    width: 22%;
+    height: 50px;
+    background-color: #68d9e8;
+    padding: auto;
+    margin: 1px;
+}
+.Serviços{    
+    float: right;
+    width: 22%;
+    height: 50px;
+    background-color: #68d9e8;
+    padding: auto;
+    margin: 1px;
+}
+.Contato{    
+    float: right;
+    width: 22%;
+    height: 50px;
+    background-color: #68d9e8;
+    padding: auto;
+    margin: 1px;
+    
+
+}
+.SobreNos{    
+    float: right;
+    width: 22%;
+    height: 50px;
+    background-color: #68d9e8;
+    padding: auto;
+    margin: 1px;
+}
