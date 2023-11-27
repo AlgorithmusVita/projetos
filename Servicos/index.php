@@ -16,8 +16,7 @@
         </div>
         <div class="Inicio" width>   
             </div>
-        <div class="Serviços" >   
-            <p >Serviços</p>
+        <div class="Serviços" href='../Servicos/index.php'>   
             
             </div>
         <div class="Contato">   
