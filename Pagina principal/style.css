@@ -3,20 +3,8 @@
     src: url(Fonte/Nova_Square.zip);
 }
 
-
-:root {
-    --cor0: #fff;
-    --cor1: #012030;
-    --cor2: #13678A;
-    --cor3: #45C4B0;
-    --cor4: #9AEBA3;
-    --cor5: #DAFDBA;
-
-    --fonte-padrao: 'Poppins', sans-serif;
-}
-
 * {
-
+    font-family: NewSquare;
 }
 
 header {
@@ -36,6 +24,7 @@ header {
 
 
 nav {
+    margin-top: 100px;
     padding: 20px;
 }
 
@@ -81,3 +70,5 @@ body {
     height: auto;
     width: auto;
 }
+
+

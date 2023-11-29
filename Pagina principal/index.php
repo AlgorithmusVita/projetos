@@ -11,7 +11,7 @@
 </head>
 <body>
  
-        <header>
+        <header> 
         <h1 id="cima">Algorithmus Vita</h1>
         <nav style="
     margin-top: 100px;
