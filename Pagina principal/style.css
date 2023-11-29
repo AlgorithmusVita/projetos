@@ -1,3 +1,9 @@
+@font-face {
+    font-family: NewSquare;
+    src: url(Fonte/Nova_Square.zip);
+}
+
+
 :root {
     --cor0: #fff;
     --cor1: #012030;
@@ -10,7 +16,7 @@
 }
 
 * {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
 }
 
 header {
@@ -65,7 +71,7 @@ body {
     margin: 0px auto 20px auto;
     width: auto;
     min-width: 300px;
-    max-width: 1000px;
+    max-width: 1500px;
     padding-top: 13px;
     border-radius: 5px;
     text-align: center;

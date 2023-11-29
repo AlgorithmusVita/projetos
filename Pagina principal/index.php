@@ -13,7 +13,9 @@
  
         <header>
         <h1 id="cima">Algorithmus Vita</h1>
-        <nav>
+        <nav style="
+    margin-top: 100px;
+        ">
          <a href="# "class="menu" id="home">Home</a>
          <a href="#" class="menu" id="sobrenos">Sobre Nós</a>
          <a href="#" class="menu" id="curiosidades">Curiosidades</a>
@@ -37,6 +39,8 @@
     <php>
 
     </php>
-    <footer></footer>
+    <footer style="
+        margin-left: 47%;">
+    Algorithmus Vita</footer>
 </body>
 </html>
