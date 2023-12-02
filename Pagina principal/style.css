@@ -3,9 +3,7 @@
     src: url(Fonte/Nova_Square.zip);
 }
 
-* {
-    font-family: NewSquare;
-}
+
 
 header {
     background-image: url(imagens/onlylogo.png);
@@ -29,7 +27,6 @@ nav {
 }
 
 .menu {    
-    
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: inline-block;
     padding-right: 10px ;
