@@ -1,12 +1,21 @@
 @font-face {
-    font-family: NewSquare;
-    src: url(Fonte/Nova_Square.zip);
+    font-family: Dujard;
+    src: url(Fonte/Dhurjati-Regular.ttf);
 }
 
+@font-face {
+    font-family: Anton;
+    src: url(Fonte/Anton-Regular.ttf);
+}
 
+html {
+    scroll-behavior: smooth;
+
+}
 
 header {
     background-image: url(imagens/onlylogo.png);
+    font-family: Dujard;
     background-size: initial;
     background-position: center;
     background-repeat: no-repeat;
@@ -27,8 +36,7 @@ nav {
 }
 
 .menu {    
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    display: inline-block;
+    font-family: Anton;
     padding-right: 10px ;
     margin-bottom: 0;
 }
@@ -52,23 +60,69 @@ body {
     background-attachment: fixed;
     background-color: white;
     color: white;
-    margin: 0%;
+    margin: ;
 }
 
 
-#corpo {
+#home {
     margin: 0px auto 20px auto;
     width: auto;
     min-width: 300px;
     max-width: 1500px;
     padding-top: 13px;
     border-radius: 5px;
+}
+
+#sobrenos {
+    margin: 0px auto 20px auto;
+    width: auto;
+    min-width: 300px;
+    max-width: 1500px;
+    padding-top: 13px;
+    border-radius: 5px;
+}
+
+#curiosidades {
+    margin: 0px auto 20px auto;
+    width: auto;
+    min-width: 300px;
+    max-width: 1500px;
+    padding-top: 13px;
+    border-radius: 5px;
+}
+
+#faleconosco {
+    margin: 0px auto 20px auto;
+    width: auto;
+    min-width: 300px;
+    max-width: 1500px;
+    padding-top: 13px;
+    border-radius: 5px;
+}
+
+
+.content {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    margin-left: 20px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+h2 {
     text-align: center;
+    font-size: 36px;
 }
 
 #teste {
-    height: auto;
-    width: auto;
+    margin: auto;
+    display: block;
+    width: 500px;
 }
 
+footer {
+    margin-top: 10%;
+    margin-bottom: 0%;
+   text-align: center;
+}
 
