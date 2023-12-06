@@ -7,11 +7,11 @@
     <title>AlgorithmusVita</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
-    <script src='main.js'></script>
 </head>
 <body>
  
         <header> 
+       <img src="imagens/1logo.png" alt="AV LOGO" id="logo">
         <h1 id="cima">Algorithmus Vita</h1>
         <nav>
          <a href="#home" class="menu"> Home</a>
@@ -57,5 +57,6 @@
 
     </php>
     <footer>Algorithmus Vita</footer>
+    <script src='main.js'></script>
 </body>
 </html>
