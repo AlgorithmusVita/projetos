@@ -19,14 +19,13 @@ html {
 }
 
 header {
-    background-color: rgb(201, 208, 214);
+    background-color: rgba(201, 208, 214, 0.767);
+    height: 400px;
     
 }
 
 nav {
     text-align: center;
-    margin-top: 0px;
-
 }
 
 #cima {
